@@ -40,12 +40,12 @@ There are some unit tests that will help you during the refactoring, it will be 
 
 
 # Submit your task
-You have 3 hours for this assignment, the way to submit your work is:
- * If you have a github account, you can clone this project and refactor the application in your clone. You must push your changes before the time limit.
- After that, send an email to felipe.canaviri@fundacion-jala.org with the url of your repository.
- * If you are not familiar with git repositories, you can download the project from the next url:
+You have less than 3 hours for this assignment, the way to submit your work is:
+ * If you have a github account, you can accept the invite the Jalasoft Trainers will send you. By accepting this invite you'll have your GitHub repository ready for you. Clone it and ensure to push your changes when your are ready.
+ 
+ * If you are not familiar with Git repositories or you don't have an account, you can download the project from the next url:
  https://github.com/jala-dev/quiz-builder/archive/refs/heads/master.zip
- To submit your changes, you can zip your project folder and send it to felipe.canaviri@fundacion-jala.org before the time limit.  
+ To submit your changes, you can zip your project folder and send it to jose.ecos@fundacion-jala.org and felipe.canaviri@fundacion-jala.org before the time limit.  
  **NOTE:** Please make sure only include project files. 
  
 # NOTE
