@@ -44,7 +44,7 @@ You have 3 hours for this assignment, the way to submit your work is:
  * If you have a github account, you can clone this project and refactor the application in your clone. You must push your changes before the time limit.
  After that, send an email to felipe.canaviri@fundacion-jala.org with the url of your repository.
  * If you are not familiar with git repositories, you can download the project from the next url:
- https://github.com/Ramir0/quizc-java/archive/main.zip
+ https://github.com/jala-dev/quiz-builder/archive/refs/heads/master.zip
  To submit your changes, you can zip your project folder and send it to felipe.canaviri@fundacion-jala.org before the time limit.  
  **NOTE:** Please make sure only include project files. 
  
