@@ -15,8 +15,11 @@ Quiz Builder is a console application that allows you to create and fill quizzes
 ### Question types
 Add support for a new question type called *NUMERIC*, and associate the next validations *REQUIRED* and *MIN* to it. 
 Remember that you need to convert the values to int
+
 ### Validations
-We want to support other kind of validations for question's answer, some of them are:
+You'll notice that several validations are implemented but they are not being applied. Add the required to code to apply validations when the user is filling the quiz.
+
+We also want to support other kind of validations for question's answer, some of them are:
    * Text validations
      * Max length
      * Only uppercase text
