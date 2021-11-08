@@ -24,7 +24,7 @@ We also want to support other kind of validations for question's answer, some of
      * Max length
      * Only uppercase text
      
-Once the new question type *NUMERIC* is implemented, we want to add the validation for a *MAX* values.
+   * Once the new question type *NUMERIC* is implemented, we want to add the validation for *MAX* values.
 
 ### Enhance the _Show Quiz_ menu action
 We want to enhance this action because currently the question information is not usefully, please enhance that logic to show the question title and answer.  
